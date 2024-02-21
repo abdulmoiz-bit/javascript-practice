@@ -1,0 +1,3 @@
+// classical inheritance
+
+// prototypal inheritance

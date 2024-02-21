@@ -1,0 +1,8 @@
+#kara:hover + #toshow{
+  color: rgb(201, 139, 23);
+  display: block;
+}
+
+#toshow{
+    display: none;
+}
